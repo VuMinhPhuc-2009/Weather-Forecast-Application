@@ -1,0 +1,26 @@
+{
+  "name": "wfa",
+  "version": "1.0.0",
+  "description": "It just my Weather-Forecast-Application for windows.",
+  "keywords": [
+    "weatherforecastapp"
+  ],
+  "homepage": "https://github.com/VuMinhPhuc-2009/Weather-Forecast-Application#readme",
+  "bugs": {
+    "url": "https://github.com/VuMinhPhuc-2009/Weather-Forecast-Application/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VuMinhPhuc-2009/Weather-Forecast-Application.git"
+  },
+  "license": "MIT",
+  "author": "Vu Minh Phuc",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^36.4.0"
+  }
+}
